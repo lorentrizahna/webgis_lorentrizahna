@@ -10,7 +10,7 @@ Aplikasi ini di design dengan berbagai fitur yang dapat mempermudah pengguna sep
 1. Tampilan Awal
 2. navigation Bar
 3. Layers
-4. 4. Zoom
+4. Zoom
 5. User Location
 6. Linear Measure Distance
 7. Search on Map
@@ -23,3 +23,4 @@ Aplikasi ini di design dengan berbagai fitur yang dapat mempermudah pengguna sep
 2. Copy dan Paste file di htdocs
 3. Jalankan XAMPP
 4. Maka file otomatis running.
+5. Atau Bisa langsung buka file index.html
